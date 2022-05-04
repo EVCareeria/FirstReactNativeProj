@@ -9,6 +9,7 @@ npm-debug.*
 *.orig.*
 web-build/
 .apiKeyJson.ts
+apiKeyJson.ts
 
 # macOS
 .DS_Store
